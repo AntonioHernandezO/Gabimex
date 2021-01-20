@@ -203,7 +203,7 @@ nav a.sidenav-trigger i {
 .btnIng{
     background-color: #0046c2;
     border-radius: 20px;
-    margin-top: 10px;
+    margin-top: 30px;
 }
 
 
@@ -212,6 +212,10 @@ nav a.sidenav-trigger i {
     justify-self: center;
     align-self: center;
     color: #f2f2f2;
+}
+
+.ubicacionDiv{
+    margin-top: 20px;
 }
 
 .contenedor .header .barsub .carritoDiv {
@@ -241,6 +245,16 @@ nav a.sidenav-trigger i {
     justify-self: center;
     color: whitesmoke;
     font-size: 33px;
+}
+
+.carritoDiv{
+    margin-right: 140px;
+    margin-top: 20px;
+}
+
+.NumProductosCarrito p{
+    color: #f1f1f1;
+    margin-left:80px;
 }
 
 .contenedor .header .barinf {
@@ -868,7 +882,7 @@ nav a.sidenav-trigger i {
 }
 
 .contenedor .footer .footerCcc {
-    background-color: #404040;
+    background-color: #000000;
 }
 
 
@@ -936,7 +950,7 @@ nav a.sidenav-trigger i {
 
 .informacion h2 {
     text-align: center;
-    color: #0046c2;
+    color: #0096c0;
 }
 
 .informacion p {
