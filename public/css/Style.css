@@ -227,12 +227,17 @@ nav a.sidenav-trigger i {
     display: grid;
 }
 
+.NumProductosCarrito{
+    padding-top: 1%;
+    padding-left: 10px;
+    color: green;
+}
+
 .contenedor .header .barsub .carritoDiv .NumProductosCarrito {
     position: relative;
     display: grid;
     z-index: +1;
-    color: #404040;
-    text-align: left;
+    margin-top: 4px;
     justify-self: center;
     font-weight: 600;
     font-size: 14px;
