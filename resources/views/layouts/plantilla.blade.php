@@ -253,7 +253,7 @@
 
     </div>
   </div>
-  <script>
+  <script>/*
     (function (b, c) {
       var e = document.createElement('link');
       e.rel = 'stylesheet', e.type = 'text/css', e.href = 'https://chatboxlive.blahbox.net/static/css/main.css',
@@ -269,14 +269,14 @@
           console.log(document.querySelector('#' + g)), chatbox.initChat(document.querySelector('#' + g), b, c)
         }, f.src = 'https://chatboxlive.blahbox.net/static/js/chat-lib.js', document.getElementsByTagName('head')[0]
         .appendChild(f)
-    })('67fdf26bb08d7701422d77bc25cfa268', 0);
+    })('67fdf26bb08d7701422d77bc25cfa268', 0);   */
   </script>
-  <script>
+  <script>    /*
     $.ajaxSetup({
       headers: {
         'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
       }
-    });
+    });           */
   </script>
 
 </body>

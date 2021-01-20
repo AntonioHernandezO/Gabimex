@@ -8,7 +8,7 @@
 <div class="ayuda">
     <div class="modifica">
         <p>Ultima Modificacion:</p>
-        <p>6-05-2020</p>
+        <p>20-01-2021</p>
     </div>
 
     <div class="opciones">
