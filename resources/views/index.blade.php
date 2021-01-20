@@ -75,7 +75,7 @@ else{
   
   <!-- <div class="master">
     <div class="loader">
-    <!-- <h2 class="animate">GABINETE MX</h2>
+    <!-- <h2 class="animate">GabiMex</h2>
     <img class="animate" src="/Imagenes/logo.png">
   
     </div>

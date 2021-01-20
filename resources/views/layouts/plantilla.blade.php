@@ -3,7 +3,7 @@
 
 <head>
 
-  <title>Gabinete MX</title>
+  <title>GabiMex</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -54,7 +54,7 @@
       <div class="barsub">
         <div class="logoDiv">
           <a href="{{ route('index') }}">
-            <img class="logo" src="/Imagenes/logo.png" alt="GabineteMX">
+            <img class="logo" src="/Imagenes/logo.png" alt="GabiMex">
           </a>
         </div>
         <div class="menuDiv">
