@@ -119,8 +119,6 @@
 
       {{ $resultado->render("pagination::materialize-ui") }}
 
-      {{-- SI QUIEREN MODIFICAR LA PAGINACION DE MATERIALIZE AQUI ESTA LA RUTA
-     \GabineteMX\vendor\laravel\framework\src\Illuminate\Pagination\resources\views\materialize-ui.blade.php --}}
       <br>
       <br>
 

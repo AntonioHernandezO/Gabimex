@@ -62,7 +62,7 @@
 <div id="cerrarCuenta" class="modal">
     <div class="modal-content">
         <h4>¡Eliminar mi cuenta!</h4>
-        <p>¿Estas seguro de eliminar tu cuenta de GabineteMX?</p>
+        <p>¿Estas seguro de eliminar tu cuenta de GabiMex?</p>
     </div>
     <div class="modal-footer">
         <a href="#!" class="modal-close waves-effect waves-green btn-flat">Cerrar ventana</a>

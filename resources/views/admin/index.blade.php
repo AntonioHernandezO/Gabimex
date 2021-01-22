@@ -8,8 +8,8 @@
   <div class="col s12 m6">
     <div class="card">
       <div class="card-image">
-        <img src="Imagenes/Admin/gestionarproducto.jpg">
-        <span class="card-title">Card Title</span>
+        <!--<img src="Imagenes/Admin/gestionarproducto.jpg">
+        <span class="card-title">Card Title</span>-->
       </div>
       <div class="card-content">
         <p>GESTIONAR PRODUCTOS</p>
@@ -24,8 +24,8 @@
   <div class="col s12 m6">
     <div class="card">
       <div class="card-image">
-        <img src="Imagenes/Admin/gestionarpromocion.jpg">
-        <span class="card-title">Card Title</span>
+       <!-- <img src="Imagenes/Admin/gestionarpromocion.jpg">
+        <span class="card-title">Card Title</span>-->
       </div>
       <div class="card-content">
         <p>GESTIONAR OFERTAS</p>
@@ -42,8 +42,8 @@
   <div class="col s12 m6">
     <div class="card">
       <div class="card-image">
-        <img src="Imagenes/Admin/gestionarproveedores.jpg">
-        <span class="card-title">Card Title</span>
+        <!--<img src="Imagenes/Admin/gestionarproveedores.jpg">
+        <span class="card-title">Card Title</span>-->
       </div>
       <div class="card-content">
         <p>GESTIONAR PROVEEDORES</p>
@@ -58,8 +58,8 @@
   <div class="col s12 m6">
     <div class="card">
       <div class="card-image">
-        <img src="Imagenes/Admin/gestionarsesion.jpg">
-        <span class="card-title">Card Title</span>
+       <!-- <img src="Imagenes/Admin/gestionarsesion.jpg">
+        <span class="card-title">Card Title</span>-->
       </div>
       <div class="card-content">
         <p>GESTIONAR SESIONES</p>

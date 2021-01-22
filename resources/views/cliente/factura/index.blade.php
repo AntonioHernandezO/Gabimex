@@ -35,10 +35,12 @@
         <tr>
             <td align="top"></td>
             <td align="top">
-                <h3>GabienteMX SA.CV.</h3>
+                <img src="{{ base_path() }}/resources/views/cliente/factura/logo.jpg" style="height: 40px; width: 180px" />
+
+                <h3>GabiMex SA.CV.</h3>
                 <pre>
                 Mexico
-                5558923636
+                5512121212
                 Folio: {{$folio}}
             </pre>
             </td>

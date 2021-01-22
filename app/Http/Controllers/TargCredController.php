@@ -91,8 +91,8 @@ class TargCredController extends Controller
         } else {
             return redirect()->back()->withErrors(['num_tar' => 'El numero de tarjeta es invalido, ingrese un numero de tarjeta valido'])->withInput();
         }
-        /* $data = request()->all();
-            return response()->json($pass);*/
+         $data = request()->all();
+             return response()->json($pass);
     }
 
     /**

@@ -220,34 +220,36 @@ nav a.sidenav-trigger i {
 
 .contenedor .header .barsub .carritoDiv {
     grid-area: carritoDiv;
-    align-self: center;
     padding-top: 5px;
-    justify-self: center;
     margin-right: 3rem;
     display: grid;
+    justify-content: center;
+    
 }
 
 .NumProductosCarrito{
-    padding-top: 1%;
-    padding-left: 10px;
+
+    padding-left: 0px;
     color: green;
+    justify-items: center;
+    align-items: start;
+
 }
 
 .contenedor .header .barsub .carritoDiv .NumProductosCarrito {
     position: relative;
     display: grid;
     z-index: +1;
-    margin-top: 4px;
-    justify-self: center;
     font-weight: 600;
-    font-size: 14px;
+    align-items: center;
+    padding-top: 10px;
+    font-size: 13px;
 }
 
 .contenedor .header .barsub .carritoDiv .iconProductosCarrito {
     position: absolute;
     z-index: -1;
-    text-align: left;
-    justify-self: center;
+    padding-top: 30px;
     color: whitesmoke;
     font-size: 33px;
 }

@@ -110,7 +110,7 @@
         </div>
 
         <div class="carritoDiv">
-          <a class=" NumProductosCarrito" href="{{ route('verCarrito') }}"><p style="font-size: 13px">Mi carrito</p><i class="material-icons iconProductosCarrito">shopping_cart</i>
+          <a class=" NumProductosCarrito" href="{{ route('verCarrito') }}"><p style=""></p><i class="material-icons iconProductosCarrito">shopping_cart</i>
             @guest
 
             @else
@@ -226,9 +226,6 @@
                     al cliente</a></li>
                 <li><a class="grey-text text-lighten-3"
                     href="{{ url('ayuda',['tip' => 'CONT']) }}">Contacto</a>
-                </li>
-                <li><a class="grey-text text-lighten-3"
-                    href="{{ url('ayuda',['tip' => 'RAST']) }}">Rastrear</a>
                 </li>
                 <li><a class="grey-text text-lighten-3"
                     href="{{ url('ayuda',['tip' => 'ICORP']) }}">Informción
